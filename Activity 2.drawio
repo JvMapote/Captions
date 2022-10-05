@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-05T00:12:20.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="Xdi8Cnr9NuawJPECRGKS" version="20.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-05T00:12:26.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="kAbHKO4IBjcTVNi5G7E3" version="20.3.0" type="github" pages="4">
   <diagram id="cprFbnrc3mf7X_INjDDe" name="Page-1">
     <mxGraphModel dx="2231" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="-253" y="190" width="270" height="270" as="geometry" />
         </mxCell>
         <mxCell id="2Gw_U44eF3HHqlXJKq_G-4" value="&lt;span style=&quot;&quot;&gt;Android Smartphone&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Application/Voice&lt;/span&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.android_phone" parent="1" vertex="1">
-          <mxGeometry x="-320" y="170" width="114" height="190" as="geometry" />
+          <mxGeometry x="-180" y="220" width="114" height="190" as="geometry" />
         </mxCell>
         <mxCell id="2Gw_U44eF3HHqlXJKq_G-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2Gw_U44eF3HHqlXJKq_G-7" target="2Gw_U44eF3HHqlXJKq_G-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
